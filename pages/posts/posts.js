@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Image from "next/image";
 import React from "react";
 
 const posts = ({ posts }) => {
@@ -7,6 +8,7 @@ const posts = ({ posts }) => {
     <div>
       <Head>
         <title>Posts</title>
+        <Image src="/public/logo.webp" width={50} height="30" />
       </Head>
       <div>
         {" "}
