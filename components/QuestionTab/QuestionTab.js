@@ -13,7 +13,13 @@ const QuestionTab = () => {
         </TabList>
 
         <TabPanel>
-          <h2>Any content 1</h2>
+          <Physics></Physics>
+        </TabPanel>
+        <TabPanel>
+          <Physics></Physics>
+        </TabPanel>
+        <TabPanel>
+          <Physics></Physics>
         </TabPanel>
         <TabPanel>
           <Physics></Physics>

@@ -8,7 +8,7 @@ const SideNav = () => {
         <Image src="/profile.jpg" width={120} height={100}></Image>
       </div>
       <div className="question-pallete h-64 border-2 rounded-md bg-cyan-200">
-        <h2 className="bg-sky-400 rounded-sm">Question Pallete</h2>
+        <h2 className="bg-sky-400 text-white rounded-sm">Question Pallete</h2>
 
         <div className="grid grid-cols-5 gap-1 ">
           <button className="btn btn-xs rounded-none btn-success ">2</button>
